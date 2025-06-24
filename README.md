@@ -1,12 +1,19 @@
 # Frontend-Mentor
+
 Name: Gurpreet Singh
+
 Student ID: 41125274
+
 Accepted Challenge: News Homepage
+
 Desktop view:
+
 <img width="1710" alt="Screenshot 2025-06-24 at 4 00 13 AM" src="https://github.com/user-attachments/assets/35080827-a486-4241-85a5-264b7d7c62cf" />
 <img width="1710" alt="Screenshot 2025-06-24 at 4 00 18 AM" src="https://github.com/user-attachments/assets/5a17fac4-7aed-4fe7-b205-006ccd9a29bf" />
 
-Mobile View:<img width="1710" alt="Screenshot 2025-06-24 at 4 01 28 AM" src="https://github.com/user-attachments/assets/7d75507f-b205-447b-aa9a-169fea058952" />
+Mobile View:
+
+<img width="1710" alt="Screenshot 2025-06-24 at 4 01 28 AM" src="https://github.com/user-attachments/assets/7d75507f-b205-447b-aa9a-169fea058952" />
 Challenges faced:
 
 1.Making it look good on all devices
